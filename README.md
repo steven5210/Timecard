@@ -6,3 +6,4 @@ An automated python script to fill out my timecard. Takes an excel file containi
 To do:
   1. Also fill out distek timesheet in addition to fieldglass
   2. Simplify code
+  3. Add support for vacation days dropdown on the distek website?
