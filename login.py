@@ -6,8 +6,8 @@ timecard = openpyxl.load_workbook('timecard.xlsx')
 sheet = timecard.get_sheet_by_name('Sheet1')
 
 baseurl = "https://www.fieldglass.net/login.do" 
-username = "blanco326" 
-password = "Torchlight2"
+username = "coolguy123" 
+password = "123fakestreet"
 
 elements_by_name = {
  'usernameTxtBox' : "username", 
